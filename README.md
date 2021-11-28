@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm niche</h1>
-<h3 align="center">lost in this digital world</h3>
+<h3 align="center">just a normal boy lost in this digital world</h3>
 
-- 🌱 I’m currently learning **Vue 3, React,...**
+- 🌱 I’m currently learning Cyber Security & Fullstack Development
 
 - 📝 I regularly write articles on [https://pwnyniche.github.io/](https://pwnyniche.github.io/)
 
