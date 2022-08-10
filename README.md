@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm niche</h1>
 
-- 🌱 I’m currently learning Cyber Security & Fullstack Development
+- 🌱 I’m currently learning Machine Learning & stuff
 
 - 📝 I regularly write articles on [https://pwnyniche.github.io/](https://pwnyniche.github.io/)
 
